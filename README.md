@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Kamil👋  
+A curious mind from Kashmir 🌄 exploring the world of code, one line at a time.
 
-<!--
-**kamil-raja/kamil-raja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE student  
+💻 Currently learning: C programming & computer science fundamentals  
+🎮 Gamer | 🧠 Tech explorer  
+📍 Kashmir, India 🇮🇳  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 On the Path
+- Sharpening my skills in C and problem-solving  
+- Working through CS50 and other foundational courses  
+- Learning the tools, building habits, and getting better every day  
+- Taking small steps toward bigger tech goals
+
+---
+
+### 🛠️ Tools I'm Using  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📁 What’s Coming
+- 💻 CS50 Projects & experiments  
+- 📚 Concept-based mini projects in C  
+- 🧩 More practice, more challenges, more growth
+
+---
+
+### 📫 Let’s Connect  
+[Instagram](notsokamil) | [Discord](#) | [LinkedIn](#)  
+
+---
+
+*"Start simple. Stay consistent. Go far."*
