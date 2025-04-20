@@ -30,7 +30,7 @@ A curious mind from Kashmir 🌄 exploring the world of code, one line at a time
 ---
 
 ### 📫 Let’s Connect  
-[Instagram](https://www.instagram.com/notsokamil/) | [Discord](#) | [LinkedIn](#)  
+[Instagram](https://www.instagram.com/notsokamil/) | [Discord](discordapp.com/user/888803185035210792) | [LinkedIn](#)  
 
 ---
 
